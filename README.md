@@ -18,7 +18,7 @@ A computer graphics project built using **OpenGL** and **GLUT** in Visual Studio
 - Visual Studio
 
 ## Media
-
+ ![Alt Text](house.png)
 
 ## Contributors
 - Heshani Maddage
